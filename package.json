@@ -1,6 +1,6 @@
 {
   "name": "crypto-tracker",
-  "homepage": "https://bfrisbyh92.github.io/Crypto-Tracker",
+  "homepage": "https://bfrisbyh92.github.io/Crypto-Tracker/",
   "version": "0.1.0",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
