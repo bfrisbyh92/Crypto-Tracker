@@ -5,9 +5,38 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url('https://previews.123rf.com/images/wbraga/wbraga1711/wbraga171100001/89058274-bitcoin-crypto-currency-and-blockchain-abstract-blue-background.jpg');
+  /* background-repeat: no-repeat; */
+  background-size: cover;
+}
+
+.main {
+  background-color: black;
+  color: aliceblue;
+  margin-top: 30vh;
+}
+
+.price {
+  background-color: black;
+  color: aliceblue;
+  margin-top: 30vh;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  background-color: black;
+  color: white;
+  padding: 15px;
+  font-size: 2em;
+}
+
+.nav a {
+  color: white;
+  text-decoration: none;
 }
